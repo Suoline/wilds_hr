@@ -1,0 +1,8 @@
+# 构建产物（内嵌本机绝对路径，勿提交）
+build/
+dist/
+__pycache__/
+*.pyc
+
+# IDE 本机状态
+.idea/workspace.xml
